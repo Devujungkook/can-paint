@@ -1,0 +1,36 @@
+.body_backgorund {
+    background-image: url("0994.jpg_wh860.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  #h1{
+      color: white; 
+      font-size: 40px;
+	  font-weight: bolder
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style: groove;
+  }
+
+  button {
+    background-color: white;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 30px;
+	   font-weight: bolder
+  }
+
+  input
+  {
+    margin-right: 20px;
+	  font-size: 30px;
+	  text-decoration-color: aliceblue;
+  }
+  
